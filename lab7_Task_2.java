@@ -2,7 +2,7 @@ OOP_lab3_Task_2.java
 
 import java.util.Scanner;
 
-public class lab3_Task_2 {
+public class lab7_Task_2 {
 
     public static void main(String[] args) {
 
