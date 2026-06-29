@@ -4,7 +4,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class  lab2_Task_2 {
+public class  lab6_Task_2 {
 
     public static void main(String[] args) {
 
