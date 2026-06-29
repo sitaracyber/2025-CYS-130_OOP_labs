@@ -17,7 +17,7 @@ class StudentResult {
     }
 }
 
-public class  lab1_Task_4 {
+public class  lab5_Task_4 {
 
     public static void main(String[] args) {
 
