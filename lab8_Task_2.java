@@ -29,7 +29,7 @@ class JazzCash {
     }
 }
 
-public class  lab4_Task_2 {
+public class  lab8_Task_2 {
 
     public static void main(String[] args) {
 
