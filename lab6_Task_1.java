@@ -30,7 +30,7 @@ class Student {
     }
 }
 
-public class  lab2_Task_1{
+public class  lab6_Task_1{
 
     public static void main(String[] args) {
 
