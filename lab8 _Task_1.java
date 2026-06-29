@@ -25,7 +25,7 @@ class DogOne extends Cat {
     }
 }
 
-public class lab4_Task_1 {
+public class lab8_Task_1 {
 
     public static void main(String[] args) {
 
