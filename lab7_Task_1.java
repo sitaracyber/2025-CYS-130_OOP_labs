@@ -6,7 +6,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-public class  lab3_Task_1 {
+public class  lab6_Task_1 {
 
     public static void main(String[] args) {
 
