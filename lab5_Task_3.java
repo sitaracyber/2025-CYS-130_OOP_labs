@@ -22,7 +22,7 @@ class Percent {
     }
 }
 
-public class  lab1_Task_3 {
+public class  lab5_Task_3 {
 
     public static void main(String[] args) {
 
